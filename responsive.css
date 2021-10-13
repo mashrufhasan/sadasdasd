@@ -1,0 +1,152 @@
+@media only screen and (max-width: 480px) {
+	/*start*/
+
+.navbar-toggler {
+    color: #fff !important;
+        padding: 4px 13px;
+    font-size: 23px;
+    line-height: 1;
+    border: 1px solid #999 !important;
+}
+.navbar-toggler:focus{
+    text-decoration: none;
+    outline: 0;
+    box-shadow: none;
+    color: orangered !important;
+    background: #fff;
+}
+.banner h4 {
+    font-size: 17px;
+    margin-top: 15px;
+}
+.banner h2 {
+    font-size: 36px;
+    line-height: 46px;
+}
+.banner p {
+   padding-top: 28px;
+}
+.banner .btns {
+    text-align: center;
+    margin-bottom: 28px;
+}
+.btns .btn-info {
+    font-size: 15px;
+    padding: 15px 15px;
+}
+.btns .btn-success{
+    font-size: 15px;
+    padding: 15px 15px;
+}
+.nav-item{
+	margin-top: 8px;
+}
+.menu .navbar-light .navbar-nav .nav-link {
+   margin: 0;
+    font-size: 18px;
+    text-align: left;
+}
+.menu .navbar-light .navbar-nav .nav-link:hover{
+    background: url(images/active.png) no-repeat left bottom;
+}
+.menu .navbar-light .navbar-nav .nav-link.active{
+    background: url(images/active.png) no-repeat left bottom;
+}
+.title h4{
+    font-size: 33px;
+}
+.title{
+    padding: 35px 0;
+}
+.feature {
+	padding-bottom:15px;
+}  
+.feature h2{
+    font-size: 28px;
+    line-height: 38px;
+    font-weight: 700;
+    padding: 25px 0 0;
+    margin-bottom: 3px;
+    letter-spacing: 1px;
+}
+.feature p {
+    font-size: 22px;
+    line-height: 32px;
+}
+.feature .margin{
+	margin: 0 0 40px;
+}
+.details {
+    padding: 50px 0 30px;
+    border-top: 2px solid #eee;
+}
+.details .list {
+    margin-top: 10px;
+}
+.customise {
+    padding: 40px 0 30px;
+}
+.customise .left-side {
+	margin:0;
+}
+.right-side h4 {
+    font-size: 31px;
+}
+.right-side p {
+    line-height: 28px;
+    font-size: 18px;
+}
+.customise p {
+    line-height: 28px;
+    font-size: 18px;
+}
+.testimonials .owl-theme p {
+    font-size: 20px;
+    line-height: 39px;
+}
+.testimonials h2 {
+    font-size: 18px;
+    line-height: 30px;
+}
+.see{
+	margin: 0;
+}
+.see h2 {
+    font-size: 35px;
+    line-height: 45px;
+    margin: 0 0 25px;
+}
+.price{
+	padding-bottom: 0px !important;
+}
+.price h2{
+    font-size: 22px;
+    line-height: 34px;
+}
+.price h4 {
+    font-size: 44px;
+    line-height: 54px;
+}
+.price .free {
+        margin: 20px 0 30px;
+ }
+.contact h2 {
+    font-size: 23px;
+    line-height: 33px;
+}
+.contact h4 {
+    font-size: 45px;
+    line-height: 50px;
+}
+.contact-details .fa {
+    font-size: 45px;
+    line-height: 55px;
+}
+.contact-details p {
+    color: #999;
+    font-size: 20px;
+}
+.main-form {
+    padding: 16px 10px 10px;
+	/*finish*/
+}
